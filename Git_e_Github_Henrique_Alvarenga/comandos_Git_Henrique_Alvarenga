@@ -1,0 +1,4 @@
+git clone: clona um repositorio existente
+git log:exibe histórico dos ultimos commits
+git init:inicia um repositorio local
+git add .:adiciona todos os arquivos ou diretórios modificados
