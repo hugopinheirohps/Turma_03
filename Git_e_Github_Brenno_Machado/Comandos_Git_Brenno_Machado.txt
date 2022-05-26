@@ -1,0 +1,24 @@
+
+$ git init
+    Inicializa um repositório git na pasta atual.
+
+$ git add .
+    Adiciona modificações da pasta do projeto atual na área de stage para serem comitadas.
+
+$ git commit -m "Mensagem de commit"
+    Gera um commit no repositório com uma mensagem para nomear o commit.
+
+$ git push
+    Se há um repositório remoto configurado envia os commits feitos localmente atualizando o repositório remoto
+
+$ git pull
+    Se há um repositório remoto configurado busca as modificações desponíveis no repositório automático e baixa para o repositório localmente
+
+$ git checkout -b Nome_Nova_Branch
+    Cria uma nova Branch e define ela como projeto atual.
+
+$ git branch
+    Lista as branchs disponiveis localmente
+
+$ git branch -a
+    Lista todas as branchs dos repositórios local e remoto.
