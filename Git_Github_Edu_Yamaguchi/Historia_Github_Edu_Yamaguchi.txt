@@ -1,0 +1,10 @@
+A)Quem inventou o sistema de controle de versão Git e por quê?
+R: O git foi inventado pelo desenvolvedor Linus Torvalds com o intuito de manter versões ou "históricos" de nossos projetos.
+
+B)Quem atualmente é o dono do Github e por quê?
+R: O github possui quatro fundadores sendo eles Tom Preston, Scott Chacon, P.J. Hyett e Chris Wanstrath, sendo assim criado para
+gerenciar os códigos desenvolvidos e criar um ambiente de colaboração entre os desenvolvedores.
+
+C)Existe outra maneira, além do terminal, de trabalhar com o github?
+R: Sim, com o github é possível criar sua própria página de sites e além disso serve como um currículo e uma wiki para os 
+desenvoledores.
