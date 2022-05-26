@@ -1,0 +1,28 @@
+$ mkdir
+Cria um novo diretório ou pasta
+$ touch
+Cria um novo arquivo
+$ rm 
+Exclui um arquivo
+$ cd
+Muda de pasta
+$ git init
+Cria um novo repositório
+$ git status
+Verifica o status dos arquivos
+$ git add
+Adiciona um arquivo
+$ git commit -m
+Comita um arquivo
+$ git remote add origin
+Vincula repositório local com um repositório remoto
+$ git push
+Enviar arquivos do repositório remoto
+$ git pull
+Atualizar repositório local de acordo com o repositório remoto
+$ git clone
+Clona um repositório remoto já existente
+$ git branch
+Cria um novo branch
+$ git checkout
+Troca para um branch existente
