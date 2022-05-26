@@ -1,0 +1,4 @@
+O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux. Alguns pontos principais para a criação do mesmo:
+Velocidade, Projeto simples,forte suporte para desenvolvimento não-linear (milhares de ramos paralelos),Completamente distribuído e Capaz de lidar com projetos grandes como o núcleo o Linux com eficiência (velocidade e tamanho dos dados)
+A Microsoft é a dona do GitHub, ela está deixando de ser apenas uma produtora de software, como fora em outros tempos, para ser uma fornecedora de serviços.
+Sim, com a interface de usuário via web.
