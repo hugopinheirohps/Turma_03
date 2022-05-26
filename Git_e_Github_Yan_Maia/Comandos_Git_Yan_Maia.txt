@@ -1,0 +1,10 @@
+Comandos Git
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+Criar um novo repositório local
+$ git branch Nome da branch
+Iniciar um novo repositorio como master local
+$ git init
+Adicionar as modificações para a fila
+$ git add .
+
