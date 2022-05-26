@@ -1,3 +1,8 @@
 a. Quem inventou o sistema de controle de versão Git e por quê?
-b.	Quem atualmente é o dono do Github e por quê?
-c.	Existe outra maneira, além do terminal, de trabalhar com o Github?
+R: A equipe de desenvolvimento do Kernel do linux devido a problemas com outros sistemas de versionamento, como o CVS e o Subversion
+
+b. Quem atualmente é o dono do Github e por quê?
+R: O git é openSource, ou seja, ele não tem uma empresa que o distribui comercialmente. Mas a parte de desenvolvimento é encabeçada pelo Julio hamano
+
+c. Existe outra maneira, além do terminal, de trabalhar com o Github?
+R: É possível trabalhar com o Github através do site e da sua CLI.
