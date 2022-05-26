@@ -1,0 +1,4 @@
+Foi criado por Linux Torvalds para o gerenciamento de várias versões do kernel do linux.
+O atual dono do github é a Microsoft. Ela comprou a empresa dos criadores  Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon.
+Com o objetivo de manter o compromisso com a liberdade, a abertura e a inovação dos desenvolvedores.
+Sim, com a interface de usuário via web.
