@@ -1,0 +1,8 @@
+a. Quem inventou o sistema de controle de versão Git e por quê?
+Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon , Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. GitHub é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto, além de promover fácil comunicação através de recursos que relatam problemas ou mesclam repositórios remotos
+
+b. Quem atualmente é o dono do Github e por quê?
+Thomas Dohmke 
+
+c. Existe outra maneira, além do terminal, de trabalhar com o Github?
+Sim
