@@ -1,0 +1,9 @@
+Git clone origin master - copiar pro repositorio local algo compartilhado por outro no remoto.
+git remote add - adicionar um novo repositório.
+git push origin master / publicar as alteraçoes locais no repositorio remoto
+git pull origin master/ baixar as alteracoes do repositorio remoto pro local
+git branch / criar uma branch
+git checkout/ sair de uma branch para o master ou vice/versa
+git merge/ juntar as alterações
+git status/ ver o status das alterações do repositório
+git commit -m / inserir um comentário a minha alteração
