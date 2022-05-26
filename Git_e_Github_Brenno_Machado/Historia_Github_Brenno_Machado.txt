@@ -1,0 +1,8 @@
+a. Quem inventou o sistema de controle de versão Git e por quê?
+    R) QUem inventou o controle de versão Git foi o Linus Torvalds, criador do Kernel Linux. A criação do Git veio pela insatisfação com o sistema de versão utilizado até então com o desenvolvimento do Kernel Linux. Para eleminar os problemas com o sistema pago usado e as limitaćões do mesmo Torvalds criou o Git, que também é de código livre, assim como Kernel Linux
+
+b. Quem atualmente é o dono do Github e por quê?
+    R) Atualmente a empresa dona do Github é a Microsoft. Foi uma compra de cerca de 7 bilhões de dólares no ano de 2018. Nos últimos anos a Microsoft vem se evolvendo cada vez mais com projetos opensource, abrindo algumas tecnologias (C#), ajudando financeiramente outras (Kernel Linux) e também criando outras ferramentas como o Visual Studio Code. A aquisição do Github faz sentido estratético para posicionar a Microsoft mais próximos de desenvolvedores que utilizam a plataforma como rede social profissional.
+
+c. Existe outra maneira, além do terminal, de trabalhar com o Github?
+    R) Existem sim outros métodos. É possível fazer graficamente através do próprio VSCode, que já tem um ambiente que facilita a integração com o Github. É possível também utilizar o Github através da interface web, criando commits, branchs, fazendo e aceitando Pull Requests e até editando código diretamente no site. Dica: Há como utilizar uma versão webapp do próprio VSCode ao apertar a tecla "." (ponto) dentro de qualquer repositório.
