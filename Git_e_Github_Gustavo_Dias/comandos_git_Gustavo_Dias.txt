@@ -1,0 +1,33 @@
+Iniciar o Git ( criar um repositorio):
+git init
+
+Inserir nome e email :
+git config --global user.name
+git config --global user.email
+
+Adicionar arquivos no commit:
+git add .
+
+Fazer o commit doas alterações:
+git commit -m "texto"
+
+enviar repositorio para o github:
+git push origin master
+
+criar um Branch:
+git branch (nome do branch)
+
+Entrar em uma Branch:
+git checkout <nome da branch>
+
+Fazer o download das alterações do repositorio remoto:
+git pull origin master
+
+Enviar um branch para o repositorio remoto:
+git push origin <nome da branch>
+
+Configurar servidor remoto:
+git remote add <endereço do servidor>
+
+Copiar um repositorio remoto:
+git clone < endereço do repositorio>
