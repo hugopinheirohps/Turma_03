@@ -1,0 +1,14 @@
+git init: criar um repositorio local 
+git add nome: adicionar os repositorio na fia 
+git commit -m "": uma marcaçao do feito 
+git add .: adicionar todos os arquivos na nuvem
+git config --global user.name "": colocar o nome do site github
+git config --global user.email"": colocar o correio di site github
+git clone: clonar um master
+git status: nos diz o estatudos dor arquivos
+git branch "name": cria uma ramificaçao 
+git branch: nos diz a ramificaçao onde estamos 
+git checkout "name": pulamos entre as ramificaçoes
+git pull origi "name": atualiza os arquivos no site e no computador 
+git push origin "name": envia o arquivo  na nuvem 
+
